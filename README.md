@@ -1,2 +1,4 @@
 # vagrant
-vagrant files and templates... which are also files.
+vagrant templates, foo and digs... maybe a little terraform
+
+vagrantup
